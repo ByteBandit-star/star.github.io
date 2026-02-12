@@ -6,3 +6,5 @@ I have set this repository to "public", so you should be able to see these conte
 I actually created this repository just for a small webpage
 但过程不顺利。因为我在创建仓库时实际设置错了很多设置项🤢
 But the process was not smooth. Because I actually set many wrong settings when creating the repository🤢
+因此如果你能看到仓库就会发现它们很乱。
+Therefore, if you can see the warehouse, you will find it very messy.
